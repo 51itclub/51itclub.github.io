@@ -1,0 +1,53 @@
+#        __        __
+#       /  \      /  \
+#       \__/      |  |
+#        __       |  |                              __
+#       /  \______|  |   ________    ________    __|  |__    ________
+#       |   ______   |  /   __   \  /   _____|  |__    __|  /   _____|
+#       |  |      \__/  |  /  \  |  |  |_____      |  |     |  |_____
+#       |  |       __   |  |  |  |  \_____   \     |  |     \_____   \
+#       |  |      /  \  |  \__/  |   _____|  |     |  |__    _____|  |
+#       \__/      \__/  \________/  |________/     \_____|  |________/
+#
+#
+# Copyright (c) 2011-2014 huhamhire-hosts team.
+#
+# Since the governments of some countries are using technical methods blocking
+# internet access to some websites and web service providers which includes
+# some world famous sites like Google, YouTube, twitter, Facebook, and
+# Wikipedia etc., we designed this tiny utility in order to help people
+# getting through the Internet blockade.
+#
+# This file contains the mappings of IP addresses to host names. Each entry
+# should be kept on an individual line. The IP address should be placed in
+# the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one space.
+#
+# comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+#
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#Localhost
+#127.0.0.1	localhost
+#::1             localhost
+#Windows
+127.0.0.1 localhost.localdomain
+127.0.0.1 localhost.localdomain localhost
+#Ubuntu
+127.0.1.1   #Fill Your Ubuntu Pc name here
+::1 localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+#MacOS
+fe80::1%lo0	localhost
+255.255.255.255	broadcasthost

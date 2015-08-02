@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<playlist version="1">
+    <title>聆听音乐</title>
+    <info>http://51itclub.net</info>
+    <trackList>
+<track><location>../../../../../mp3/canon.mp3</location><annotation>卡农新混音版</annotation><info>卡农新混音版（可作手机铃音）</info><image></image></track>
+<track><location>../../../../../mp3/harlem-shake.mp3</location><annotation>安与骑兵 - 红山果</annotation><info>安与骑兵 - 红山果</info><image>mp3/mp3/SingerRes/安与骑兵/120/20130304114224564834.jpg</image></track>
+<track><location>ftp://192.168.2.1/kugoumusic/周杰伦 - 稻香.mp3</location><annotation>周杰伦 - 稻香</annotation><info>周杰伦 - 稻香</info><image>mp3/mp3/SingerRes/周杰伦/120/20110422114630398.jpg</image></track>
+<track><location>ftp://192.168.2.1/kugoumusic/周杰伦 - 麦芽糖.mp3</location><annotation>周杰伦 - 麦芽糖</annotation><info>周杰伦 - 麦芽糖</info><image>mp3/mp3/SingerRes/周杰伦/120/20110422114630398.jpg</image></track>
+<track><location>ftp://192.168.2.1/kugoumusic/陈明 - 快乐老家.mp3</location><annotation>陈明 - 快乐老家</annotation><info>陈明 - 快乐老家</info><image></image></track>
+<track><location>ftp://192.168.2.1/kugoumusic/好妹妹乐队 - 送你一朵山茶花.mp3</location><annotation>好妹妹乐队 - 送你一朵山茶花</annotation><info>好妹妹乐队 - 送你一朵山茶花</info><image></image></track>
+<track><location>ftp://192.168.2.1/kugoumusic/Beyond - 海阔天空.mp3</location><annotation>Beyond - 海阔天空</annotation><info>Beyond - 海阔天空</info><image></image></track>
+    </trackList>
+</playlist>
