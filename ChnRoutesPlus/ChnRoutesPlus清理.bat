@@ -23,6 +23,10 @@ call :mydel vpndown_android.sh
 call :mydel vpndown-win.bat
 call :mydel vpndown-winp.bat
 call :mydel ip-down_mac
+call :mydel gw.txt
+call :mydel gfwlist.txt
+call :mydel *.pac
+rem call :mydel *.txt
 
 echo «Â¿ÌÕÍ±œ!
 

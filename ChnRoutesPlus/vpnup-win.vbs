@@ -26,7 +26,7 @@ if WScript.Arguments.Count then
   'WScript.Echo file, args
 else
   file = "cmd.exe"
-  args = "/k """ & CreateObject("WScript.Shell").CurrentDirectory & "\vpnup-win.bat" & Chr(34)
+  args = "/k """ & CreateObject("WScript.Shell").CurrentDirectory & "\vpnup-win.bat -s" & Chr(34)
 end if
 
 'ºËÐÄ´úÂë
